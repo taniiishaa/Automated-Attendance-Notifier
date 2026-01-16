@@ -1,0 +1,11 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Excel temp files
+~$*.xlsx
+
+# Environments
+.venv/
+env/
+.env
